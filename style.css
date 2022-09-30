@@ -1,0 +1,71 @@
+html{
+    background-color: rgb(215, 215, 215);
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Menu */
+
+.top-header{
+    background-color: black;
+    padding: 0px;
+}
+
+.menu-item{
+    color: white;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+
+
+}
+
+
+
+  /* Topic */
+.box1{
+    max-width: 70%;
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+}
+
+.box2{
+    /* display:flex;
+     align-items:center;*/
+     max-width: 70%;
+     background-color: rgb(255, 197, 4);
+     padding: 20px;
+     margin: auto;
+ }
+
+.topic{
+    display: flex;
+    font-family: 'Chonburi', cursive;
+}
+
+h2{
+    font-size: 80px;
+padding-left: 40px;
+   /* display: flex;
+    align-items: center;*/
+}
+
+.inner-box1{
+ display: flex;
+ /*text-align: left;*/
+}
+
+.inner-box1-1{
+    font-size: 30px;
+    margin: auto;
+
+}
+
+.inner-box2{
+    display: flex;
+    text-align: right;
+    padding: 0;
+    border: solid;
+   }
+
